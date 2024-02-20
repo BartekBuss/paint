@@ -1,0 +1,10 @@
+C:\Users\Bartosz\source\repos\Paintt\Paintt\obj\Debug\Paintt.csproj.AssemblyReference.cache
+C:\Users\Bartosz\source\repos\Paintt\Paintt\obj\Debug\Paintt.Form1.resources
+C:\Users\Bartosz\source\repos\Paintt\Paintt\obj\Debug\Paintt.Properties.Resources.resources
+C:\Users\Bartosz\source\repos\Paintt\Paintt\obj\Debug\Paintt.csproj.GenerateResource.cache
+C:\Users\Bartosz\source\repos\Paintt\Paintt\obj\Debug\Paintt.csproj.CoreCompileInputs.cache
+C:\Users\Bartosz\source\repos\Paintt\Paintt\bin\Debug\Paintt.exe.config
+C:\Users\Bartosz\source\repos\Paintt\Paintt\bin\Debug\Paintt.exe
+C:\Users\Bartosz\source\repos\Paintt\Paintt\bin\Debug\Paintt.pdb
+C:\Users\Bartosz\source\repos\Paintt\Paintt\obj\Debug\Paintt.exe
+C:\Users\Bartosz\source\repos\Paintt\Paintt\obj\Debug\Paintt.pdb
